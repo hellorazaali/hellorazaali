@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta http-equiv="content-language" content="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://razzusofficial.com/">
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="Freelance Website Designer and Web Developer - Raza Ali" />
+    <meta name="description"
+        content="Best freelance web designer and developer, providing top-notch services like WordPress website, E-commerce website , Custom website, landing page.">
+    <meta name="keywords"
+        content="web designer, web developer, freelance, freelancing, digital service, website design, web design agency">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="2 days">
+    <meta name="author" content="Raza Ali">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="Freelance Website Designer and Web Developer - Raza Ali">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://razzusofficial.com/" />
+    <meta property="og:title" content="Freelance Website Designer and Web Developer - Raza Ali" />
+    <meta property="og:description"
+        content="Best freelance web designer and developer, providing top-notch services like WordPress website, E-commerce website , Custom website, landing page." />
+    <meta property="og:image" content="https://razzusofficial.com/screenshot.png" />
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://razzusofficial.com/" />
+    <meta property="twitter:title" content="Freelance Website Designer and Web Developer - Raza Ali" />
+    <meta property="twitter:description"
+        content="Best freelance web designer and developer, providing top-notch services like WordPress website, E-commerce website , Custom website, landing page." />
+    <meta property="twitter:image" content="https://razzusofficial.com/screenshot.png" />
+    <!--Google Tage-->
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKSQP34K');</script>
+<!-- End Google Tag Manager -->
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0FCEGM6T3T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0FCEGM6T3T');
+</script>
+    <title>Freelance Website Designer and Web Developer - Raza Ali</title>
+    <!-- icon and stylesheets -->
+    <!--<link rel="icon" href="favicon.ico">-->
+    <link rel="icon" href="favicon.ico">
+    <link rel="apple-touch-icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="css/slick.css">
+    <link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+    <link rel="stylesheet" href="css/prettify.css">
+    <link rel="stylesheet" href="css/notify.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKSQP34K"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="pop-contain">
+        <div class="popup">
+            <div class="close"><i class="fa-solid fa-circle-xmark"></i></div>
+            <h2>Claim Your Free Website Audit Now!</h2>
+            <form action="functions.php" method="post">
+                <input type="text" placeholder="Enter Your Name" name="name">
+                <input type="email" placeholder="Enter Your Email" name="email">
+                <input type="submit" value="Submit" name="popup-submit">
+            </form>
+        </div>
+    </div>
+    <header>
+        <div class="logo">
+            <img src="images/razaali-logo.webp" alt="Raza Ali's image">
+            <h2>Raza Ali</h2>
+        </div>
+        <div class="navbar">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about" class="nav-link active">About</a></li>
+                <li><a href="#services" class="nav-link">What I Do</a></li>
+                <li><a href="#portfolio" class="nav-link">My Work</a></li>
+                <li><a href="#testimonial" class="nav-link">Testimonials</a></li>
+                <li><a href="#blogs" class="nav-link">Blogs</a></li>
+                <li><a href="#contact" class="nav-link">Talk to Me</a></li>
+            </ul>
+        </nav>
+        <div class="contact">
+            <a href="https://linktr.ee/razzusofficial" target="_blank">Hire Me</a>
+        </div>
+    </header>
+    <main>
+        <section id="about">
+            <div class="contents">
+                <h2 class="sub-heading">Hi, my name is Raza Ali.</h2>
+                <h1>I’m a <span class="highlight">web developer</span>, specialized in React, Next.js, Node.js,
+                    WordPress, Shopify & more</h1>
+                <p>Looking for experienced website designer to develop your Wordpress website, Ecommerce Website, Custom
+                    Website, Landing Page.</p>
+                <div class="hero-bottom">
+                    <div class="hire-btn">
+                        <a href="https://linktr.ee/razzusofficial" target="_blank">Hire Me</a>
+                    </div>
+                    <div class="skills">
+                        <h2>BEST SKILL ON</h2>
+                        <div class="tech-logo">
+                            <i class="fa-brands fa-react"></i>
+                            <i class="fa-brands fa-php"></i>
+                            <i class="fa-brands fa-node-js"></i>
+                            <i class="fa-brands fa-wordpress-simple"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="my-image">
+                <img src="images/razaali.webp" alt="Raza Ali's image">
+                <div class="follow-links">
+                    <div class="socials">
+                        <a href="https://www.facebook.com/razzusofficiall/" aria-label="Visit my Facebook profile" target="_blank"><i
+                                class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/razzusofficial/" aria-label="Visit my Instagram profile" target="_blank"><i
+                                class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/razzusofficiall/" aria-label="Visit my Linkedin profile" target="_blank"><i
+                                class="fa-brands fa-linkedin-in"></i></a>
+                        <a href="https://twitter.com/razzusofficial" aria-label="Visit my Twitter profile" target="_blank"><i
+                                class="fa-brands fa-twitter"></i></a>
+                        <a href="https://wa.me/923002933076" aria-label="Contact me on Whatsapp" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="services">
+            <h3 class="sub-heading">Features</h3>
+            <h2 class="main-heading">What I Do</h2>
+            <div class="services">
+                <div class="service-card">
+                    <i class="fa-brands fa-wordpress-simple"></i>
+                    <h2>WordPress Website Development</h2>
+                    <p>I create attractive, custom WordPress websites that enhance your online presence. From concept to
+                        implementation, I prioritize visual appeal and user friendliness.</p>
+                </div>
+                <div class="service-card">
+                    <i class="fa-solid fa-laptop-code"></i>
+                    <h2>Custom Website Development</h2>
+                    <p>My expertise in developing custom websites that align with your vision and brand identity for a
+                        unique online presence tailored to your needs.</p>
+                </div>
+                <div class="service-card">
+                    <i class="fa-solid fa-store"></i>
+                    <h2>E-Commerce Website Development</h2>
+                    <p>I create attractive and secure <nobr>e-commerce</nobr> websites. Our focus is on the best
+                        features for seamless user experiences and better online shopping.</p>
+                </div>
+            </div>
+        </section>
+        <section id="portfolio">
+            <h3 class="sub-heading">VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK</h3>
+            <h2 class="main-heading">My Portfolio</h2>
+            <div id='filter'>
+                <button class='all active'>All</button>
+                <button class='wordpress'>WordPress</button>
+                <button class='ecommerce'>E-Commerce</button>
+                <button class='landing-page'>Landing Pages</button>
+            </div>
+
+            <!-- Demo images from behance.net -->
+            <div id='posts'>
+                <div class='post ecommerce'><img src='images/portfolio/aarex website web.webp' alt="Aarex Hair Oil website image"/>
+                    <div class='post-content'>
+                        <h2>Aarex</h2>
+                        <p>Aarex is a Hair Oil Brand based in Australia</p>
+                        <a href="https://aarex.pk">View more</a>
+                    </div>
+                </div>
+                <div class='post ecommerce'><img src='images/portfolio/horn and bill.webp' alt="Horn and Bill website image"/>
+                    <div class='post-content'>
+                        <h2>Horn and Bill</h2>
+                        <p>Horn & Bill is a Malaysian brand that sells homemade cakes.</p>
+                        <a href="https://hornandbill.com">View more</a>
+                    </div>
+                </div>
+                <div class='post ecommerce'><img src='images/portfolio/jacketmaker website web.webp' alt="USA Jacket maker website image"/>
+                    <div class='post-content'>
+                        <h2>USA Jacket Maker</h2>
+                        <p>USA Jacket Maker is an American brand that sells jackets.</p>
+                        <a href="https://usajacketmaker.com">View more</a>
+                    </div>
+                </div>
+                <div class='post ecommerce'><img src='images/portfolio/valencia website web.webp' alt="Valencia website image"/>
+                    <div class='post-content'>
+                        <h2>Valencia</h2>
+                        <p>Valencia is a fashion Brand based in USA</p>
+                        <a href="https://valenciaofficial.com">View more</a>
+                    </div>
+                </div>
+                <div class='post ecommerce'><img src='images/portfolio/mikado website web.webp' alt="Mikado shoes store website image"/>
+                    <div class='post-content'>
+                        <h2>Mikado</h2>
+                        <p>Mikado is a footwear Brand based in Pakistan</p>
+                        <a href="https://mikadostore.pk">View more</a>
+                    </div>
+                </div>
+                <div class='post wordpress'><img src='images/portfolio/LQI website web.webp' alt="Learning Quran Institute website image"/>
+                    <div class='post-content'>
+                        <h2>Learning Quran Institute</h2>
+                        <p>LQI is an Institute that teaches Quran in USA</p>
+                        <a href="https://learningquraninstitute.com">View more</a>
+                    </div>
+                </div>
+                <div class='post wordpress'><img src='images/portfolio/millennium website web.webp' alt="Millennium Logistics website image"/>
+                    <div class='post-content'>
+                        <h2>Millennium Group</h2>
+                        <p>Millennium Group is a Logistics Brand Based in Malaysia</p>
+                        <a href="https://millennium-group.co.uk">View more</a>
+                    </div>
+                </div>
+                <div class='post landing-page'><img src='images/portfolio/emarkhor website web.webp' alt="Emarkhor website image"/>
+                    <div class='post-content'>
+                        <h2>Emarkhor</h2>
+                        <p>Emarkhor is providing Digital Services in Pakistan</p>
+                        <a href="https://emarkhor.com">View more</a>
+                    </div>
+                </div>
+                <div class='post wordpress'><img src='images/portfolio/aussie website web.webp' alt="Aussie LED and Solar website image"/>
+                    <div class='post-content'>
+                        <h2>Aussie Led Solar</h2>
+                        <p>Aussie Led and Solar is an Australian Brand.</p>
+                        <a href="https://aussieledsolar.com.au">View more</a>
+                    </div>
+                </div>
+            </div>
+            <div class='hidden'></div>
+        </section>
+        <section id="testimonial">
+            <h3 class="sub-heading">WHAT CLIENTS SAY</h3>
+            <h2 class="main-heading">Testimonial</h2>
+            <div class="reviews">
+                <div class="review">
+                    <div class="stars">
+                        <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i
+                            class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i
+                            class="fa-solid fa-star"></i>
+                    </div>
+                    <h3>E-Commerce Website Development</h3>
+                    <h4>Zain Khan - Via Google</h4>
+                    <p>I had a great experience working with Raza Ali for website development for my clothing brand, USA
+                        Jacket Maker. The team was professional and efficient in their approach. They listened to my
+                        vision and were able to bring it to life with a beautiful and user-friendly website. The site
+                        was designed and developed to be mobile-friendly and optimized for SEO. I highly recommend Raza
+                        Ali for their website development services.</p>
+                </div>
+                <div class="review">
+                    <div class="stars">
+                        <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i
+                            class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i
+                            class="fa-solid fa-star"></i>
+                    </div>
+                    <h3>Custom Website Development</h3>
+                    <h4>Liam - Via Upwork</h4>
+                    <p>I recently had the opportunity to work with Raza Ali, and I must say, they exceeded my
+                        expectations in every way. From the start, their team displayed a high level of professionalism
+                        and expertise.
+
+                        What impressed me the most was their exceptional communication and collaboration throughout the
+                        entire process. They took the time to understand my unique needs and goals, offering valuable
+                        insights and suggestions along the way. Their responsiveness and attention to detail made me
+                        feel supported and assured that my project was in capable hands.</p>
+                </div>
+            </div>
+        </section>
+         <section id="blogs">
+            <h3 class="sub-heading">SELECTED ARTICLES</h3>
+            <h2 class="main-heading">Blogs</h2>
+            <div class="regular slider">
+                <a href="">
+                    <div class="blog">
+                        <img src="images/blogs/5-essential-elements-of-effective-web-design.webp" alt="essential elements of effective web design blog 1 image">
+                        <div class="content">
+                            <h2>The Secret to a High-Performing Website with These 5 Essential Elements</h2>
+                            <p>If you’re looking to build a website that drives traffic, engages visitors, and
+                                ultimately
+                                converts leads into customers, it’s essential to focus on creating a high-performing
+                                website. </p>
+                            <div class="date">
+                                <p>4-Sep-2023</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="blog">
+                        <img src="images/blogs/high-performing-online-store.webp" alt="high performing online store blog 2 image">
+                        <div class="content">
+                            <h2>How To Build a High-Performing Online Store</h2>
+                            <p>You can’t just grab a template from the internet and expect your online store to perform
+                                well. If you want it to look professional, meet customer expectations and generate
+                                results for your business, it’s crucial to invest in quality design.</p>
+                            <div class="date">
+                                <p>8-Sep-2023</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="blog">
+                        <img src="images/blogs/Conversion-Rate-Optimization.webp" alt="Conversion rate optimization blog 3 image">
+                        <div class="content">
+                            <h2>Why Your Business Needs a CRO Audit and How It Shapes Your Content</h2>
+                            <p>A conversion rate optimization audit or CRO audit is crucial to improving your website’s
+                                performance. By analyzing user behavior, traffic sources and other metrics, CRO experts
+                                can make data-driven recommendations to increase conversions and enhance revenue. </p>
+                            <div class="date">
+                                <p>4-oct-2023</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+        </section>
+        <section id="contact">
+            <div class="contact">
+                <div class="info">
+                    <h2>Get In Touch</h2>
+                    <h3>Whatsapp:</h3>
+                    <a href="https://wa.me/923199241554">+92-319-9241554</a>
+                    <h3>Email:</h3>
+                    <a href="mailto:hellorazaali@gmail.com">hellorazaali@gmail.com</a>
+                </div>
+                <form action="functions.php" method="post">
+                    <input type="text" placeholder="Enter Your Name" name="name">
+                    <input type="email" placeholder="Enter Your Email" name="email">
+                    <p>What type of project do you need completed?</p>
+                    <input type="radio" value="E-Commerce Website" id="ecommerce" name="project-type">
+                    <label for="ecommerce">E-Commerce Website</label>
+                    <input type="radio" value="WordPress Website" id="wordpress" name="project-type">
+                    <label for="wordpress">WordPress Website</label>
+                    <input type="radio" value="Custom Website" id="custom" name="project-type">
+                    <label for="custom">Custom Website</label>
+                    <p>What's your budget? (optional)</p>
+                    <input type="radio" value="N/A" id="na" name="budget">
+                    <label for="na">N/A</label>
+                    <input type="radio" value="500-1k" id="$500-1k" name="budget">
+                    <label for="$500-1k">$500-1k</label>
+                    <input type="radio" value="$1k-1.2k" id="$1k-1.2k" name="budget">
+                    <label for="$1k-1.2k">$1k-1.2k</label>
+                    <textarea name="message" id="message" cols="30" rows="10"
+                        placeholder="Tell me a little about your project"></textarea>
+                    <input type="submit" value="Submit" name="form-submit">
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <img src="images/razaali-logo.webp" alt="Raza Ali Logo Image">
+        <h2>Follow Me On</h2>
+        <div class="socials">
+            <a href="https://www.facebook.com/razzusofficiall/" target="_blank"><i
+                    class="fa-brands fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/razzusofficial/" target="_blank"><i
+                    class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/razzusofficiall/" target="_blank"><i
+                    class="fa-brands fa-linkedin-in"></i></a>
+            <a href="https://twitter.com/razzusofficial" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+            <a href="https://wa.me/923002933076" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+        </div>
+        <div class="copyright">
+            <p>&copy; Copyright 2023. All Rights Reserved.</p>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">What I Do</a></li>
+                    <li><a href="#portfolio">My Work</a></li>
+                    <li><a href="#testimonial">Testimonials</a></li>
+                    <li><a href="#blogs">Blogs</a></li>
+                    <li><a href="#contact">Talk to Me</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+
+
+
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/portfolio.js"></script>
+    <script src="js/slick.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/slider.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/prettify.js"></script>
+    <script src="js/notify.js"></script>
+    <script src="js/script.js"></script>
+    <?php
+    if (isset($_GET["submit"])) {
+        echo "<script>";
+       echo '$.notify("Success! Your form has been submitted.", { align: "right", verticalAlign: "top", type: "success", delay: 30000 });';
+       echo"</script>";
+    }else{
+        echo "<script>";
+       echo 'setTimeout(()=>{
+    popup.style.display = "flex";
+
+}, 3000)
+closeBtn.addEventListener("click",()=>{
+    popup.style.display = "none";
+});';
+       echo"</script>";
+    }
+    ?>
+</body>
+
+</html>
