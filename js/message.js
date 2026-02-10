@@ -1,1 +1,0 @@
-$.notify("Success! Your form has been submitted.", { align: "right", verticalAlign: "top", type: "success", delay: 30000 });
